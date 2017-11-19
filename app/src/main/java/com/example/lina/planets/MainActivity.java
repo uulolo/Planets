@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
         ft.replace(R.id.fragmentAge, ageFragment);//هاد ال فراجمنت الموجود في الواجهه الأساسيه  R.id.fragment/*الداله ft.replace علشان يعملي تبديل*/
         ft.commit();
 
+       // android:name="com.example.lina.planets.AgeFragment"
+
 
 
 

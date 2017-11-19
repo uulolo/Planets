@@ -31,9 +31,11 @@
 
         <fragment
             android:id="@+id/fragmentAge"
+             android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
             android:name="com.example.lina.planets.AgeFragment"
 
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+             />
     </LinearLayout>
 </LinearLayout>
